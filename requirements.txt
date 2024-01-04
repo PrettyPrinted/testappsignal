@@ -1,0 +1,9 @@
+flask==2.3.3 
+celery 
+redis 
+flask-sqlalchemy 
+flask-wtf 
+appsignal 
+opentelemetry-instrumentation-flask
+opentelemetry-instrumentation-redis
+opentelemetry-instrumentation-celery
